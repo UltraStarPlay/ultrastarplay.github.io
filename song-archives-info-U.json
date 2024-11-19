@@ -10,9 +10,19 @@
       "description":"Songs Collection from various artists from AllKaraoke Party with: ≈ 3644 songs, 12 MB"
    },
    {
-      "name":"All Songs of USDB - 26800 Songs for Singing Forever and ever",
-      "url":"https://ultrastarplay.github.io/All.zip",
-      "description":"The USDB Songs Collection with: ≈ 26800 songs, 60 MB"
+      "name":"All Songs of USDB Part 1 0-9 and A-F - 26800 Songs for Singing Forever and ever",
+      "url":"https://ultrastarplay.github.io/AllAF.zip",
+      "description":"Part 1 0-9 and A-F - The USDB Songs Collection with: ≈ 26800 songs, 25 MB"
+   },
+   {
+      "name":"All Songs of USDB Part 2 G-O - 26800 Songs for Singing Forever and ever",
+      "url":"https://ultrastarplay.github.io/AllGO.zip",
+      "description":"Part 2 G-O - The USDB Songs Collection with: ≈ 26800 songs, 25 MB"
+   },
+   {
+      "name":"All Songs of USDB Part 3 P-Z and more - 26800 Songs for Singing Forever and ever",
+      "url":"https://ultrastarplay.github.io/AllPZ.zip",
+      "description":"Part 3 P-Z and more - The USDB Songs Collection with: ≈ 26800 songs, 25 MB"
    },
    {
       "name":"UltraStar-Deluxe CC Songs",
