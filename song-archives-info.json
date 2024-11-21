@@ -25,8 +25,8 @@
       "description":"Part 3 P-Z and more - The USDB Songs Collection with: ≈ 8400 songs, 25 MB"
    },
    {
-      "name":"UltraStar-Deluxe CC Songs",
-      "url":"https://github.com/UltraStar-Deluxe/songs/archive/refs/heads/master.zip",
-      "description":"Creative Commons licensed songs from various artists. ≈ 40 songs, 300 MB"
+      "name":"UltraStar-Deluxe CC Songs Stream",
+      "url":"https://ultrastarplay.github.io/CC.zip",
+      "description":"Creative Commons licensed songs from various artists Streaming. ≈ 40 songs, 1 MB"
    }
 ]
